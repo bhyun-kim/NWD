@@ -5,6 +5,6 @@ This is an user implementation of [A Normalized Gaussian Wasserstein Distance fo
 
 ## To-Do 
 
-[ ] Add NWD-based label assignment 
-[ ] Add NWD-based NMS
-[ ] Add NWD-based regression loss
+- [ ] Add NWD-based label assignment 
+- [ ] Add NWD-based NMS
+- [ ] Add NWD-based regression loss
