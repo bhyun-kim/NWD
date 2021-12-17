@@ -5,7 +5,7 @@ This is an user implementation of [A Normalized Gaussian Wasserstein Distance fo
 
 ## To-Do 
 
-- [ ] Add VisDrone2019 Dataset
+- [x] Add VisDrone2019 Dataset
 - [ ] Add AI-TOD Dataset
 - [ ] Add NWD-based label assignment 
 - [ ] Add NWD-based NMS
